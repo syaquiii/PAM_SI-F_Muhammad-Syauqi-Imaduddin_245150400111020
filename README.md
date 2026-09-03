@@ -15,3 +15,4 @@
 
 Screenshot hasil jalannya aplikasi tersimpan di dalam folder `app/`:
 - 📸 **Lokasi File:** `app/Screenshoot hasil (Muhammad Syauqi Imaduddin_245150400111020).png`
+<img width="200" height="427" alt="image" src="https://github.com/user-attachments/assets/35bfe5c7-a42a-42e8-9a85-5c29642d4126" />
